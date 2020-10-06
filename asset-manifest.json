@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/contabilidad/static/js/main.b5670b2e.chunk.js",
+    "main.js.map": "/contabilidad/static/js/main.b5670b2e.chunk.js.map",
+    "runtime-main.js": "/contabilidad/static/js/runtime-main.5e73a74e.js",
+    "runtime-main.js.map": "/contabilidad/static/js/runtime-main.5e73a74e.js.map",
+    "static/css/2.18fb2ca0.chunk.css": "/contabilidad/static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.c630bf93.chunk.js": "/contabilidad/static/js/2.c630bf93.chunk.js",
+    "static/js/2.c630bf93.chunk.js.map": "/contabilidad/static/js/2.c630bf93.chunk.js.map",
+    "index.html": "/contabilidad/index.html",
+    "precache-manifest.731154ddb6eeb3bb1fac3d59fbcf6d7b.js": "/contabilidad/precache-manifest.731154ddb6eeb3bb1fac3d59fbcf6d7b.js",
+    "service-worker.js": "/contabilidad/service-worker.js",
+    "static/css/2.18fb2ca0.chunk.css.map": "/contabilidad/static/css/2.18fb2ca0.chunk.css.map",
+    "static/js/2.c630bf93.chunk.js.LICENSE.txt": "/contabilidad/static/js/2.c630bf93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e73a74e.js",
+    "static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.c630bf93.chunk.js",
+    "static/js/main.b5670b2e.chunk.js"
+  ]
+}
